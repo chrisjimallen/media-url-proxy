@@ -1,0 +1,21 @@
+# Don't commit WordPress core files
+wp-config.php
+wp-content/uploads/
+wp-content/cache/
+*.log
+
+# Don't commit environment-specific files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Don't commit IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Don't commit sensitive information
+.env
+config.php
