@@ -13,7 +13,7 @@ A WordPress plugin that allows you to replace media URLs with a configured domai
 
 1. Install and activate the plugin in WordPress
 2. Go to Settings > Media URL Proxy
-3. Enter the domain you want to use for proxying media files (e.g., https://yourproductionsite.com)
+3. Enter the domain you want to use for proxying media files (e.g., https://your-production-site.com)
 4. Save the settings
 
 ## How It Works
